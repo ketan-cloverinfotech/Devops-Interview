@@ -1,13 +1,5 @@
 # DevOps Fresher Interview Questions
 
-**User:** Ketan Thombare (ketan.thombare@gmail.com)  
-**Created:** 4/29/2025 8:31  
-**Updated:** 4/29/2025 8:47  
-**Exported:** 4/29/2025 8:48  
-
-## Response:
-Here’s a list of **DevOps interview questions** you can ask based on Vijay Shrotriya's resume:
-
 * * *
 
 ### **General Questions:**
@@ -736,8 +728,3 @@ Thought for 6 seconds
 
 **Tip for interviewers:**  
 Use these basics as ice-breakers. For deeper assessment, follow up with scenario-based or hands-on tasks (e.g., “Show me how you’d create a Dockerfile for this sample app”).
-
-
-
----
-Powered by [ChatGPT Exporter](https://www.chatgptexporter.com)
